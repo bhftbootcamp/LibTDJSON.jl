@@ -1,0 +1,10 @@
+name = "LibTDJSON"
+uuid = "87e4e5f2-490d-427d-a2c1-b52f3fd3e296"
+version = "0.1.0"
+
+[deps]
+TDLib_jll = "6cfef11d-eb86-5696-bb50-1df673c3ffa1"
+
+[compat]
+TDLib_jll = "1.8.48"
+julia = "1.8"
