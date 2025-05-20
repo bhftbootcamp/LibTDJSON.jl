@@ -2,9 +2,9 @@
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://bhftbootcamp.github.io/LibTDJSON.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://bhftbootcamp.github.io/LibTDJSON.jl/dev/)
-[![Build Status](https://github.com/bhftbootcamp/LibTDJSON.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/bhftbootcamp/LibTDJSON.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/bhftbootcamp/LibTDJSON.jl/actions/workflows/Coverage.yml/badge.svg?branch=master)](https://github.com/bhftbootcamp/LibTDJSON.jl/actions/workflows/Coverage.yml?query=branch%3Amaster)
 [![Coverage](https://codecov.io/gh/bhftbootcamp/LibTDJSON.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/bhftbootcamp/LibTDJSON.jl)
-[![Registry](https://img.shields.io/badge/registry-General-4063d8)](https://github.com/JuliaRegistries/General)
+[![Registry](https://img.shields.io/badge/registry-Green-green)](https://github.com/bhftbootcamp/Green)
 
 Wrapper for TDLib’s C JSON [interface](https://core.telegram.org/tdlib/docs/td__json__client_8h.html) for building Telegram clients in Julia.
 
