@@ -13,7 +13,7 @@ Wrapper for TDLib’s C JSON [interface](https://core.telegram.org/tdlib/docs/td
 If you haven't installed our [local registry](https://github.com/bhftbootcamp/Green) yet, do that first:
 
 ```
-] registry add https://github.com//Green.git
+] registry add https://github.com/bhftbootcamp/Green.git
 ```
 
 To install LibTDJSON, simply use the Julia package manager:
